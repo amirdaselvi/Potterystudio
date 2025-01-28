@@ -1,0 +1,211 @@
+body{
+    background-color: black;
+}
+.cont img{
+    width: 100%;
+    height: 600px;
+}
+.top{
+    position: absolute;
+    color: white;
+    top: 200px;
+    bottom: 100px;
+    left: 60px;
+    text-align: justify;
+}
+.btn button{
+    background-color: wheat;
+    width: 20%;
+    height: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.abt{
+    background-color: rgb(177, 172, 172);
+    width: 49.9%;
+    height: 500px;
+   
+    text-align: center;
+    line-height: 150px;
+    float: left;
+}
+.hor{
+    width: 20%;
+    background-color: yellow;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+.let {
+    color: black;
+    line-height: 30px;
+    text-align: center;
+    
+}
+.reg{
+    background-color:rgb(177, 172, 172);
+    width: 49.9%;
+    height: 500px;
+  
+   
+    text-align: center;
+    line-height: 150px;
+    float: right;
+}
+.workshop{
+
+    width: 40%;
+    height: 550px;
+    
+    background-color: rgb(238, 229, 229);
+    line-height: 150px;
+    text-align: center;
+    float: left
+}
+.event img{
+    width: 60%;
+    height: 550px;
+    float: right;
+
+}
+.studio img{
+    width: 60%;
+    height: 550px;
+    float: left;
+}
+.member{
+    line-height: 50px;
+    height: 550px;
+    color: white;
+    text-align: center;
+}
+.slide5{
+    background-color: rgb(238, 229, 229); 
+    margin-top: 68%;
+    height: 780px;
+}
+.sale{
+   text-align: center;
+   line-height: 70px;
+   
+}
+.pot img{
+    width: 30%;
+    height: 300px;
+    margin-left: 3%;
+    float: left;
+
+}
+.bowl img{
+    width: 30%;
+    height: 300px;
+    margin-left: 2%;
+    margin-right:2% ;
+    float: right;
+}
+.base img{
+    width: 28%;
+    height: 300px;
+    margin-left: 2%;
+    margin-right:1% ;
+}
+.btn2 button{
+    margin-top: 5%;
+    margin-left: 44%;
+    width: 15%;
+    height: 45px;
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.prd pre{
+    margin-top: 23%;
+    margin-left: 3%;
+    font-size: large;
+}
+/*makepot img{
+    position: relative;
+    width: 50%;
+    margin-top: 2%;
+    height: 900px;
+    margin-left: 25%;
+   
+   
+}
+
+  
+  .text-block {
+    position: absolute;
+    width: 50%;
+    background-color:  rgb(238, 229, 229);
+    color:black;
+    padding-left: 20px;
+    padding-right: 20px;
+  }*/
+  .testimonial-section {
+    background: url('pic/make.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 50px;
+    display: flex;
+    margin-top: 3%;
+   
+    height: 600px;
+   
+  }
+  
+  .testimonial-box {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #333;
+    padding: 25px;
+    margin-top: 30%;
+    text-align: center;
+    max-width: 500px;
+    height: 350px;
+    margin-left: 5%;
+    margin-right: 40%;
+  }
+  
+  .testimonial-box h2 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    color: black;
+  }
+  
+  .testimonial-box .quote {
+    font-size: 50px;
+    color: #f57c00;
+    margin: 0;
+  }
+  
+  .testimonial-box .testimonial-text {
+    margin: 10px 0 20px;
+  }
+  
+  .testimonial-box .author {
+    font-style: italic;
+    color: #555;
+  }
+  .sub h2{
+     color: white;
+     margin-top: 15%;
+     text-align: center;
+  }
+  .sub p{
+    color: white;
+    margin-top: 5%;
+    text-align: center
+  }
+  .sub input{
+    margin-top: 4%;
+    margin-left: 35%;
+    width: 20%;
+     background-color: black;
+ }
+  .sub button{
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin-left: 4%;
+    margin-bottom: 10%;
+  }
+  
